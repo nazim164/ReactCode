@@ -1,0 +1,25 @@
+body{
+    background-image: url('b1.webp');
+}
+label{
+    color: antiquewhite;
+}
+h1{
+    color: rgb(155, 211, 26);
+    font-weight: bold;
+    text-decoration: underline;
+    border-radius: 10px;
+    text-transform :capitalize;
+    font-size: 30px;
+    /* border-radius: 10px;
+    border: 5px solid rgb(230, 193, 107);
+    background-color:darkgray; */
+}
+.demo
+{
+    border: 3px solid;
+    border-color: burlywood;
+    border-radius: 20px;
+    /* opacity: 1.5; */
+  
+}
